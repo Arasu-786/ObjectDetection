@@ -38,7 +38,7 @@ python object_detection.py
 
 ### Object Detection Demo
 
-![Detection 1](screenshots/detection1.png)
+![Detection 1]([screenshots/detection1.png](https://github.com/Arasu-786/CodeAlpha_ObjectDetection/blob/main/CodeAlpha_ObjectDetection/Screenshots/Screenshot%202026-06-13%20201611.png))
 
 ![Detection 2](screenshots/detection2.png)
 
